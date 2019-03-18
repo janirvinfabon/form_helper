@@ -1,0 +1,9 @@
+c:\users\jifabon\documents\visual studio 2013\Projects\MyFormHelper\MyFormHelper\bin\Debug\MyFormHelper.exe.config
+c:\users\jifabon\documents\visual studio 2013\Projects\MyFormHelper\MyFormHelper\bin\Debug\MyFormHelper.exe
+c:\users\jifabon\documents\visual studio 2013\Projects\MyFormHelper\MyFormHelper\bin\Debug\MyFormHelper.pdb
+c:\users\jifabon\documents\visual studio 2013\Projects\MyFormHelper\MyFormHelper\obj\Debug\MyFormHelper.csprojResolveAssemblyReference.cache
+c:\users\jifabon\documents\visual studio 2013\Projects\MyFormHelper\MyFormHelper\obj\Debug\MyFormHelper.Properties.Resources.resources
+c:\users\jifabon\documents\visual studio 2013\Projects\MyFormHelper\MyFormHelper\obj\Debug\MyFormHelper.csproj.GenerateResource.Cache
+c:\users\jifabon\documents\visual studio 2013\Projects\MyFormHelper\MyFormHelper\obj\Debug\MyFormHelper.exe
+c:\users\jifabon\documents\visual studio 2013\Projects\MyFormHelper\MyFormHelper\obj\Debug\MyFormHelper.pdb
+c:\users\jifabon\documents\visual studio 2013\Projects\MyFormHelper\MyFormHelper\obj\Debug\MyFormHelper.forms.main_form.resources
