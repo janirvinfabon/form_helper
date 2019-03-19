@@ -1,5 +1,5 @@
 # form_helper
-This application will doe the bulk input boxes, combo boxes and password validation. A dot net application using windows form. This uses LINQ, lambda expression, and List&lt;T>
+This application will do the bulk input boxes validation, combo boxes validation and password validation. A dot net application using windows form. This uses LINQ, lambda expression, and List&lt;T>
 
 # form properties
 private ErrorProvider err1 = new ErrorProvider() { BlinkStyle = ErrorBlinkStyle.NeverBlink };
